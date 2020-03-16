@@ -1,19 +1,20 @@
 # My Learning Journal
 
-```
-All default markdown notes have been kept at the top, **see line 45** for the beginning of *Index* each index entry coresponds to a branch of main repository; organized by subject matter. The final page should be a summary of topics for Class 102`-`d13
-```
-`## Welcome to GitHub Pages
+**Branches** will reflect the different days of Journaling for the different lessons. *readme.md* page will only contain the default markdown code and theme elements. 
 
+```
+ ## Welcome to GitHub Pages
+ 
 You can use the [editor on GitHub](https://github.com/Vafuthnir/learning-journal-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+```
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-```
-```markdown
+
+markdown
 Syntax highlighted code block
 
 # Header 1
@@ -41,21 +42,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 ```
-`
 
-# *Readme.md* (gives overview of how information is organized)
-## Learning Mindest
-### Challenges
-   
-   - When Faced with challenges I need to make an effort to remind myself >*the only easy day was yesterday* and to focus on the small victories because from those will come all future great victories. 
-   - stepping back from the trees to see the forest is an important part of maintaining perspective and not allowing myself to get emotionally bogged down by the difficulty of the current challenge
-   
-### Obstacles
-    - no
-   
-   
-## Day 02
-## Day 03
-## Day 04
-## Day 05
+
 
