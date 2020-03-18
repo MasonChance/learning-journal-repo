@@ -1,12 +1,41 @@
-# My Learning Journal
-
 ![profile picture](https://masonchance.github.io/learning-journal-repo/Buisness Proffessional.jpeg)
 
-# Bio
 
->I'm 32 yrs old and a lifelong student. For all it's challenges being homeschooled for the first half of my education, provided me with a unique experience of learning how I learn
- I'm excited to be working with @codefellows as I make a career shift from manual labor and hospitality, to the tech industry. 
+ [Link to Readme.md](https://masonchance.github.io/learning-journal-repo/readme.md)  Email: mason.fryberger@gmail.com 
 
+
+# Java script Overview
+
+
+
+## Important Terms
+
+
+## Example of JavaScript 
+```
+var today= new Date();
+var hourNow= today.getHours();
+var greeting;
+
+if(hourNow > 18){
+    greeting = 'Good evening';
+
+}else if (hourNow > 12){ 
+    greeting = 'Good afternoon!';
+
+}else if (hourNow > 0){
+    greeting = 'Good morning!';
+
+}else {
+    greeting = 'Welcome!';
+
+}
+
+document.write('<h3>' + greeting + '</h3>')
+
+```
+
+## Function and assignment symbol Reference
 
 ### [Repo Index](https://masonchance.github.io/learning-journal-repo/) (*click to return to README.md)
 
