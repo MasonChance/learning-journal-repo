@@ -18,3 +18,24 @@ Markdown is a language for making webpages specifically within the GitHub platfo
 - **Links** 
     We are all familiar with links and they come in super handy even when navigating internally. The Markdown Synatax for is: `[*label of the link*](url goes here). To refer to the Readme.md master page that is the parent of this one click here: [Learning Journal Home Page](https://github.com/MasonChance/learning-journal-repo/readme.md)
 
+
+
+### [Repo Index](https://masonchance.github.io/learning-journal-repo/) (*click to return to README.md)
+
+##### Day 01
+    - [Mindset](https://masonchance.github.io/learning-journal-repo/main-page.md/)
+    - [Markdown Notes](https://masonchance.github.io/learning-journal-repo/markdown-notes.md/)
+    - [Coders Computer Notes](https://masonchance.github.io/learning-journal-repo/the-coders-computer-notes.md/)
+
+##### Day 02
+    - [Git Intro Notes](https://masonchance.github.io/learning-journal-repo/git-intro-notes.md)
+    - [Html webstructure notes](https://masonchance.github.io/learning-journal-repo/Html-webstructure-notes.md/)
+    - New project Repo ([Twitch-Coaches](https://masonchance.github.io/twitch-coaches/))
+
+##### Day 03
+    -
+    -
+    -
+
+I've included a reference to GitHub documentation and Support for ease of access
+[documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact)
