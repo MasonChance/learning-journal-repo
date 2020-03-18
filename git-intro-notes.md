@@ -2,9 +2,21 @@
 
 # Git Overview
 
-<--! write short paragraph --> 
+To understand what "Git" is you need to know a little about version control. Version control is a system that lets you look at multiple possible renderings of a file, like a text document for example, compare them and then compile the features of each that you want into your final draft; without losing your original file and it's contents. while there are several version control systems types, we will be looking at a Distrubuted Verson Control System or DVCS called Git. 
 
+The short explaination of DVCS is that it allows multiple mirrored copies of a file to exist on multiple clients independently of the mother copy. The main benefit is that if the mother copy is damaged or lost in some way the data can be restored from any of the clones without a loss of integrity. 
 
+## Git Cycle
+  1. Clone original Repository (this is like a giant file cabinet for your files)
+    - It is extremely important to clone **into the directory on your computer that you want it to exist in**
+    - To check which directory you are in run command `pwd` in the terminal it will return your current directory path
+    - To add a new directory run command `mkdir newdirectoryname` be sure not to use spaces, caps or periods
+    - To go to the new directory run command `cd nameofdirectory` if you forget exactly how you named your directory run command `ls` before running `cd`
+  1. Once created run `git status` this is a command you will use a lot
+  1. You can run the command for opening your text editor, in my case for VisualCode: `code .`
+    - after making any significant changes you will want to go through Gitflow ACP shown below
+
+    
 
 
 ## GitFlow ACP: (*add, commit, push*) Terminal Commands
