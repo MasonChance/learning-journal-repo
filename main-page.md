@@ -7,7 +7,8 @@
 
  [Link to Readme.md](https://masonchance.github.io/learning-journal-repo/readme.md)  Email: mason.fryberger@gmail.com 
 
-
+<!-- https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies    reference material
+-->
 
 # Professional Competencies
 
