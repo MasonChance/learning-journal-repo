@@ -1,6 +1,6 @@
 # My Learning Journal
 
-[profile picture](Buisness Proffessional.jpeg)
+![profile picture](https://masonchance.github.io/learning-journal-repo/Buisness Proffessional.jpeg)
 
 # Bio
 
@@ -8,16 +8,16 @@
  I'm excited to be working with @codefellows as I make a career shift from manual labor and hospitality, to the tech industry. 
 
 
-## Repo Index (*click to return to README.md)
+## [Repo Index](https://masonchance.github.io/learning-journal-repo/) (*click to return to README.md)
 
 ### Day 01
-    - [Mindset](main-page.md)
-    - [Markdown Notes](markdown-notes.md)
-    - [Coders Computer Notes](the-coders-computer-notes.md)
+    - [Mindset](https://masonchance.github.io/learning-journal-repo/main-page.md/)
+    - [Markdown Notes](https://masonchance.github.io/learning-journal-repo/markdown-notes.md/)
+    - [Coders Computer Notes](https://masonchance.github.io/learning-journal-repo/the-coders-computer-notes.md/)
 
 ### Day 02
-    - [Git Intro Notes](git-intro-notes.md)
-    - [Html webstructure notes](Html-webstructure-notes.md)
+    - [Git Intro Notes](https://masonchance.github.io/learning-journal-repo/git-intro-notes.md)
+    - [Html webstructure notes](https://masonchance.github.io/learning-journal-repo/Html-webstructure-notes.md/)
     - New project Repo ([Twitch-Coaches](https://masonchance.github.io/twitch-coaches/))
 
 ### Day 03
