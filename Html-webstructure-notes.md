@@ -1,4 +1,7 @@
 
+![profile picture](https://masonchance.github.io/learning-journal-repo/Buisness Proffessional.jpeg)
+
+
 # Hyper Text Markup Language
 
 HTML is a semantic language that both we, the user, and the browser on a client computer have in common. its what allows us to talk to each other at a deeper level than the Graphic User Interface can give us. helps to create that GUI infact. when we understand HTML we are able to control and build a website. 

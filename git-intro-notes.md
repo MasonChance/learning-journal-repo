@@ -1,4 +1,4 @@
-
+![profile picture](https://masonchance.github.io/learning-journal-repo/Buisness Proffessional.jpeg)
 
 # Git Overview
 

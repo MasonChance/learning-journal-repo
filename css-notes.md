@@ -1,3 +1,6 @@
+![profile picture](https://masonchance.github.io/learning-journal-repo/Buisness Proffessional.jpeg)
+
+
 # Notes for CSS- General
     -to add multiple selectors to a rule set seperate them by a `space` this creates specificity! will only apply to the last selector and only it is ***nested within the preceding elements selected***
     
