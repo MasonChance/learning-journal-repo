@@ -1,12 +1,11 @@
 # My Learning Journal
 
-# Layout and Use`-`Case for Learning`-`Journal`-`Repo
+[profile picture](Buisness Proffessional.jpeg)
 
 # Bio
 
-
-I've included a reference to GitHub documentation and Support for ease of access
-[documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>I'm 32 yrs old and a lifelong student. For all it's challenges being homeschooled for the first half of my education, provided me with a unique experience of learning how I learn
+ I'm excited to be working with @codefellows as I make a career shift from manual labor and hospitality, to the tech industry. 
 
 
 ## Repo Index (*click to return to README.md)

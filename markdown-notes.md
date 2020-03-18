@@ -1,6 +1,8 @@
 
 # Markdown Notes
 
+this is a living document and will be added to as I come across special/esoteric use-cases for which I would like a handy reference
+
 ## Overview
 
 Markdown is a language for making webpages specifically within the GitHub platform and is used to style and format text. It uses special characters in varying combinations to create these effects. Fundamental Styling includes `#` for **Headings** and `_` for _italic_ Below are a few other more complex but important fundamental styling elements in a list format (use `-` and a space to delineate bulleted list)
