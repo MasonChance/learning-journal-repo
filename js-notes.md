@@ -50,7 +50,9 @@ document.write('<h3>' + greeting + '</h3>') ` this is a function that will execu
 - `=` does not mean equal but rather means "assign"
 - `{}` begin and end a code block, these tell the browser when and where to stop reading a method and move to the next in the priority stack based on it's conditional returns
 - `;` ends a phrase within the code telling the browser it can run the phrase independently of any other phrase in the code block. ***very important not to forget these***
-
+- `==` only compares **characters** in a code line it *ignores* data types
+- `===` compares ***characters and types***
+- `
 
 
 
