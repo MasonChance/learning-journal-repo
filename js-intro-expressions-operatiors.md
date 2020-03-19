@@ -43,14 +43,13 @@ operators are the symbols that tell the script what to do with the expressions a
 
 ## Functions
 
-functions group a series of statements together to perform a task. functions can be re-used if they indicate a task that needs to be repeated
+functions group a series of expressions together with operators to perform a specific task. 
 
-<!--takes input, processes input, does something with it
-    reference pg90 for function syntax and composition
-   !clarify usage of the word argument in programing context 
-   encapsulation is the same as nesting, it prevents a script from applying its assignmnets an opperations to the entire page and lets the browser read it **only when it is called**
-   "calling a function"  is different from giving your html *access to the file with `<script>` tag* calls are made **in** the .jsfile. functions must be called to work.
-   terms/expressions inside the `()` of a function are called parameters -->
+take input, processes input, and do something with it reference pg90 for function syntax and composition.
+encapsulation is the same as nesting, it prevents a script from applying its assignmnets and opperations to the entire page,
+and lets the browser read it **only when it is called** "calling a function"  is different from giving your html *access to the file with `<script>` tag*. 
+Calls are made **in** the .jsfile and the html then references the call and not the file as a whole.  functions must be called to work.
+terms/expressions inside the `()` of a function are called parameters 
 
 
 
@@ -72,7 +71,7 @@ functions group a series of statements together to perform a task. functions can
 
 - [CSS Notes](https://masonchance.github.io/learning-journal-repo/css-notes)
 - [Java script notes](https://masonchance.github.io/learning-journal-repo/js-notes)
--
+- [JS Inro to expressions and operators](https://masonchance.github.io/learning-journal-repo/js-intro-expressions-operators)
 ##### Day 04
 
 -[Computer Architecture](https://masonchance.github.io/learning-journal-repo/computer-architecture-logic-notes)
