@@ -14,5 +14,5 @@ Markdown is a language for making webpages specifically within the GitHub platfo
     ![Profile Picture](https://masonchance.github.io/learning-journal-repo/Buisness Proffessional.jpeg)
 
 - **Links** 
-    We are all familiar with links and they come in super handy even when navigating internally. The Markdown Synatax for is: `[*label of the link*](url goes here). To refer to the Readme.md master page that is the parent of this one click here: [Learning Journal Home Page](https://github.com/MasonChance/learning-journal-repo/readme.md)
+    We are all familiar with links and they come in super handy even when navigating internally. The Markdown Synatax for is: `[*label of the link*](url goes here). To refer to the Readme.md master page that is the parent of this one click here: [Learning Journal Home Page](https://masonchance.github.io/learning-journal-repo/)
 

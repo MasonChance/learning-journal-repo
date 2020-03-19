@@ -50,9 +50,26 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 ```
 
-## Repo Index
-### Day 01
-    -Mindset
-    -Markup Notes
-    - <!-- subseuent day 01 assignments for submission -->
+### Repo Index
 
+##### Day 01
+
+- Mindset (links need fixed)
+- Markup Notes (links need fixed)
+- The Goders Computer (links need fixed)
+
+##### Day 02
+- 
+-
+-
+##### Day 03
+
+- [CSS Notes](https://masonchance.github.io/learning-journal-repo/css-notes)
+-
+-
+-
+##### Day 04
+
+-
+-
+-
