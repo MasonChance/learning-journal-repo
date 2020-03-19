@@ -14,7 +14,17 @@
    - Property is the thing you want to change
    - value indicates how you want it to change
    -
-   -
+
+
+## Box Model Positioning
+
+![Box Model Diagram](https://masonchance.github.io/learning-journal-repo/css-box-model.png)
+
+- Content:
+- Padding:
+- Border:
+- Margin:
+
 
 ## CSS Selector and Ruleset Reference
     - `.nameofclass` sets a class ruleset for any element with `class=""` attribute
