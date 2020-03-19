@@ -1,31 +1,32 @@
 # My Learning Journal
 
-# Layout and Use`-`Case for Learning`-`Journal`-`Repo
+![profile picture](https://masonchance.github.io/learning-journal-repo/Buisness Proffessional.jpeg)
 
-```
-Branches will reflect different days of journaling on the various topics. Below the general markdown and github notes here, will be an index to each subbranch with a live link and list of asignments . 
-```
+# Bio
+
+>I'm 32 yrs old and a lifelong student. For all it's challenges being homeschooled for the first half of my education, provided me with a unique experience of learning how I learn
+ I'm excited to be working with @codefellows as I make a career shift from manual labor and hospitality, to the tech industry. 
 
 
-## Welcome to GitHub Pages
-``` 
-You can use the [editor on GitHub](https://github.com/Vafuthnir/learning-journal-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [Repo Index](https://masonchance.github.io/learning-journal-repo/) (*click to return to README.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-```
+##### Day 01
 
-### Markdown
+- [Mindset](https://masonchance.github.io/learning-journal-repo/main-page)
+- [Markdown Notes](https://masonchance.github.io/learning-journal-repo/markdown-notes/)
+- [Coders Computer Notes](https://masonchance.github.io/learning-journal-repo/the-coders-computer-notes/)
 
-```
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Day 02
+ - [Git Intro Notes](https://masonchance.github.io/learning-journal-repo/git-intro-notes/)
+ - [Html webstructure notes](https://masonchance.github.io/learning-journal-repo/Html-webstructure-notes/)
+ - New project Repo ([Twitch-Coaches](https://masonchance.github.io/twitch-coaches/))
 
-markdown
-Syntax highlighted code block
+##### Day 03
+- [CSS Notes](https://masonchance.github.io/learning-journal-repo/css-notes/)
+- [Java script notes](https://masonchance.github.io/learning-journal-repo/js-notes/)
+-
 
-# Header 1
-## Header 2
-### Header 3
-
+<<<<<<< HEAD
 - Bulleted
 - List
 
@@ -73,3 +74,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 -
 -
 -
+=======
+I've included a reference to GitHub documentation and Support for ease of access
+
+[documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact)
+>>>>>>> 7e43dda4cee42bd0e53e6991c7e109a506a79e1c

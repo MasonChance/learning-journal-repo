@@ -1,28 +1,41 @@
-
-
-
-
 ![profile picture](https://masonchance.github.io/learning-journal-repo/Buisness Proffessional.jpeg)
 
 
  [Link to Readme.md](https://masonchance.github.io/learning-journal-repo/readme.md)  Email: mason.fryberger@gmail.com 
 
-<!-- https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies    reference material
--->
 
-# Professional Competencies
+# Java script Overview
 
-  ## Strengths
-    -
-    -
-    -
-  ## Opportunities for Growth
-    -
-    -
-    -
-     
-     
 
+
+## Important Terms
+
+
+## Example of JavaScript 
+```
+var today= new Date();
+var hourNow= today.getHours();
+var greeting;
+
+if(hourNow > 18){
+    greeting = 'Good evening';
+
+}else if (hourNow > 12){ 
+    greeting = 'Good afternoon!';
+
+}else if (hourNow > 0){
+    greeting = 'Good morning!';
+
+}else {
+    greeting = 'Welcome!';
+
+}
+
+document.write('<h3>' + greeting + '</h3>')
+
+```
+
+## Function and assignment symbol Reference
 
 ### [Repo Index](https://masonchance.github.io/learning-journal-repo/) (*click to return to README.md)
 
@@ -39,7 +52,7 @@
 
 ##### Day 03
 - [CSS Notes](https://masonchance.github.io/learning-journal-repo/css-notes/)
--
+- [Java script notes](https://masonchance.github.io/learning-journal-repo/js-notes/)
 -
 
 I've included a reference to GitHub documentation and Support for ease of access
