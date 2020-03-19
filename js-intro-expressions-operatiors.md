@@ -49,7 +49,8 @@ functions group a series of statements together to perform a task. functions can
     reference pg90 for function syntax and composition
    !clarify usage of the word argument in programing context 
    encapsulation is the same as nesting, it prevents a script from applying its assignmnets an opperations to the entire page and lets the browser read it **only when it is called**
-   -->
+   "calling a function"  is different from giving your html *access to the file with `<script>` tag* calls are made **in** the .jsfile. functions must be called to work.
+   terms/expressions inside the `()` of a function are called parameters -->
 
 
 
