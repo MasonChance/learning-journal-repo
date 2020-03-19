@@ -6,16 +6,50 @@
 ## Overview
 
 
+## Process and work flow
+1. Define goal
+1. Design script
+    - create flow-chart
+    - identify variables
+    - identify methods
+    - identify conditions
+    - identify operators
+1. Code the steps
+    - go one line at a time
+    - then each block at a time
+    - use the console in dev tools
+
+<!--see page 18 in ducket, create flowchart and add file here correlate with pg.23 flowchart key describing the categories of script design-->
+
+
+
+
 ## Expressions
+
+an expression evaluates into a single value just like in algebra. in general terms there are two main categories of expression
+- Assignments
+- comparisons or "equations" (note that `=` does not always have the same semantic meaning as in maths)
 
 
 ## Operators
 
+operators are the symbols that tell the script what to do with the expressions and how to interpret them. operators are divided into types by what they accomplish
+- Assingment opperations
+- Arithmatic
+- string (more on data types in another section)
+- comparison opperators
+- logical operators
 
 
+## Functions
 
+functions group a series of statements together to perform a task. functions can be re-used if they indicate a task that needs to be repeated
 
-
+<!--takes input, processes input, does something with it
+    reference pg90 for function syntax and composition
+   !clarify usage of the word argument in programing context 
+   encapsulation is the same as nesting, it prevents a script from applying its assignmnets an opperations to the entire page and lets the browser read it **only when it is called**
+   -->
 
 
 
