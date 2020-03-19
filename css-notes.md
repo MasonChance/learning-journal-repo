@@ -35,11 +35,13 @@
 - [Coders Computer Notes](https://masonchance.github.io/learning-journal-repo/the-coders-computer-notes/)
 
 ##### Day 02
+
  - [Git Intro Notes](https://masonchance.github.io/learning-journal-repo/git-intro-notes/)
  - [Html webstructure notes](https://masonchance.github.io/learning-journal-repo/Html-webstructure-notes/)
  - New project Repo ([Twitch-Coaches](https://masonchance.github.io/twitch-coaches/))
 
 ##### Day 03
+
 - [CSS Notes](https://masonchance.github.io/learning-journal-repo/css-notes/)
 -
 -
