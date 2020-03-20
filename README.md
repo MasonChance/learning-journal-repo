@@ -13,24 +13,35 @@
 ##### Day 01
 
 - [Mindset](https://masonchance.github.io/learning-journal-repo/main-page)
+
 - [Markdown Notes](https://masonchance.github.io/learning-journal-repo/markdown-notes)
+
 - [Coders Computer Notes](https://masonchance.github.io/learning-journal-repo/the-coders-computer-notes)
 
 ##### Day 02
 
  - [Git Intro Notes](https://masonchance.github.io/learning-journal-repo/git-intro-notes)
+
  - [Html webstructure notes](https://masonchance.github.io/learning-journal-repo/Html-webstructure-notes)
+ 
  - New project Repo ([Twitch-Coaches](https://masonchance.github.io/twitch-coaches)
 
 ##### Day 03
 
 - [CSS Notes](https://masonchance.github.io/learning-journal-repo/css-notes)
+
 - [Java script notes](https://masonchance.github.io/learning-journal-repo/js-notes)
+
 - [JS Inro to expressions and operators](https://masonchance.github.io/learning-journal-repo/js-intro-expressions-operatiors)
 
 ##### Day 04
 
--[Computer Architecture](https://masonchance.github.io/learning-journal-repo/computer-architecture-logic-notes)
+- [Computer Architecture](https://masonchance.github.io/learning-journal-repo/computer-architecture-logic-notes)
+
+- [Js operators and loops](https://masonchance.github.io/learning-journal-repo/js-operators-loops-notes)
+
+
+
 
 I've included a reference to GitHub documentation and Support for ease of access
 
