@@ -31,8 +31,11 @@ Binary refers to the use of 2 digits to represent any quantity. to store non-int
 as a number and then the number becomes basically the avatar of the information. 
 
 ## circuts
-    circuts combine the input information and the stored information to produce a result
+    circuts combine the input information and the stored information to produce a result.
     
+## hardware and software relationships
+
+- hardware is the vessel for the information. a physical container for it. like the body(brain/nervous system) for our minds. the mind. the thoughts we have are the software
 
 
 
