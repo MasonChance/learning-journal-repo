@@ -1,19 +1,27 @@
 # Operators and Loops Overview
 
+
 ## Comparison Operators
+- just like arithmatic, code uses operators operators are symbols that tell the script how to process the expressions they refer to. 
+- `==` means equal to. (remember `=` means assigned not equal)\
+- `===` means **strictly equal to** this compares both the value *and* the type of the expressions
+- parenthesis create groupings so the script knows what to do and in what order to do it. 
+- 
 
 
-## Structuring Comparison Operators
 
 ## Logical Operators
-- Logical "and" `&&` operator
-- Logical "or" `&&` operator
-- Logical "not" `!` operator
+- Logical "and" `&&` operator `both expressions must be true' for the parent expression to be true
+- Logical "or" `||` operator either expression can be true for the parent expression to be true
+- Logical "not" `!` operator inverts the returned value of a statement. 
 
 ## Loops and Loop Counters
 - keyword `for` indicates start of a loop
+    - for each instance of this, do that
 - keyword `while` indicates start of loop
+    as long as this value exists, do that
 - keyword `do while` indicates start of loop
+    as do this only while you do that. kind of like when. 
 
 <!--see pg 172-173 for diagram. make diagram and upload as .png file for this page
 
