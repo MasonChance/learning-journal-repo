@@ -26,7 +26,7 @@
 
 - [CSS Notes](https://masonchance.github.io/learning-journal-repo/css-notes)
 - [Java script notes](https://masonchance.github.io/learning-journal-repo/js-notes)
-- [JS Inro to expressions and operators](https://masonchance.github.io/learning-journal-repo/js-intro-expressions-operators)
+- [JS Inro to expressions and operators](https://masonchance.github.io/learning-journal-repo/js-intro-expressions-operatiors)
 
 ##### Day 04
 
